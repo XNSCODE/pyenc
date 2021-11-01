@@ -7,3 +7,5 @@ $ git clone https://github.com/XNSCODE/enc
 $ cd enc
 $ python2 run.py
 ```
+
+#### HANYA BISA UNTUK PYTHON 2.7+
